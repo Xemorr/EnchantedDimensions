@@ -1,0 +1,7 @@
+name: EnchantedDimensions
+version: ${project.version}
+main: me.xemor.enchanteddimensions.EnchantedDimensions
+api-version: 1.16
+authors: [ Xemor_ ]
+description: Enchanted Dimensions returns!
+depend: [WorldEdit]
